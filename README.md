@@ -61,15 +61,8 @@ To set up the project, follow these steps:
 We welcome contributions to enhance this project! Follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch for your improvements:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git add .
-   git commit -m "Add your descriptive commit message"
-   ```
+2. Create a new branch for your improvements.
+3. Make your changes and commit them.
 4. Open a pull request to propose your contributions.
 
 We'll review your pull request and provide feedback promptly.
