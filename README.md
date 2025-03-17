@@ -16,7 +16,7 @@ The model is trained on a dataset of CT scans sourced from Kaggle, comprising bo
 The core of this project is the DeiT model, an Efficient Vision Transformer designed for high performance with reduced computational complexity. DeiT leverages attention mechanisms to capture contextual relationships across different parts of the image, which can be particularly beneficial in identifying subtle stroke indicators in medical imaging.
 
 ### Benefits of Using DeiT
-- **Global Context Awareness**: Unlike CNNs, DeiT processes the entire image to capture global context, which is 0crucial for accurately detecting strokes.
+- **Global Context Awareness**: Unlike CNNs, DeiT processes the entire image to capture global context, which is crucial for accurately detecting strokes.
 - **Efficiency**: DeiT achieves comparable accuracy to larger ViT models but with fewer parameters and less computational overhead, making it more feasible for deployment in resource-constrained environments.
 
 ## Installation
